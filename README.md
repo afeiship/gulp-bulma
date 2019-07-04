@@ -1,2 +1,2 @@
 # gulp-bulma
-> Customize bulma with gulp
+> Customize bulma with gulp.
