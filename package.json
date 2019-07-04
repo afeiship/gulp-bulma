@@ -1,0 +1,26 @@
+{
+  "name": "gulp-bulma",
+  "version": "1.0.0",
+  "description": "Customize bulma with gulp.",
+  "homepage": "https://github.com/afeiship/gulp-bulma",
+  "author": {
+    "name": "afei",
+    "email": "1290657123@qq.com"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "del": "^5.0.0",
+    "express": "^4.17.1",
+    "gulp": "^4.0.2",
+    "gulp-load-plugins": "^2.0.0",
+    "gulp-sass": "^4.0.2",
+    "prettier": "^1.18.2"
+  },
+  "dependencies": {
+    "bulma": "^0.7.5"
+  }
+}
