@@ -10,7 +10,7 @@
   "scripts": {
     "start": "node server.js"
   },
-  "main": "index.js",
+  "main": "dist/customized-bulma.css",
   "license": "MIT",
   "devDependencies": {
     "del": "^5.0.0",
